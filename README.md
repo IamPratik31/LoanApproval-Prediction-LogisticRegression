@@ -21,9 +21,9 @@ This project implements Multiple Linear Regression using Python and Scikit-learn
 - Google Colab / Jupyter Notebook
 
 ## Dataset
-Dataset: [Enter Dataset Name]
+Dataset: laptop prices dataset
 
-Dataset Source: [Paste Original Dataset URL]
+Dataset Source: https://www.kaggle.com/datasets/anubhavgoyal10/laptop-prices-dataset
 
 ## Work Completed
 - Dataset loading and exploration.
